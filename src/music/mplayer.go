@@ -89,3 +89,23 @@ func main() {
 		}
 	}
 }
+
+/*
+go build library
+
+go build play
+
+go build music
+
+
+
+go test library
+
+
+
+go install library
+
+go install play
+
+go install music
+*/
